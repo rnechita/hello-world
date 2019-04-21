@@ -25,5 +25,7 @@ class ClassObjectsExample {
 
         l1.displayLightStatus();
         l2.displayLightStatus();
+        l2.turnOn();
+        l2.displayLightStatus();
     }
 }
